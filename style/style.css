@@ -48,3 +48,57 @@ nav h2{
     font-size: 65px;
 
 }
+/* action\ */
+.action-container {
+    height: 328px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+.title {
+    font-size: 42px;
+}
+
+.sub-title {
+    font-size: 24px;
+    color: #252432;
+}
+
+.action-container img {
+    border-radius: 48px;
+}
+
+/* productive */
+.productive-container {
+    background-color: #4E47FF1A;
+    padding: 50px 0 50px 0;
+    border-radius: 24px;
+    margin-top: 60px;
+}
+
+.card {
+    text-align: center;
+}
+
+.productive-container h2 {
+    text-align: center;
+}
+
+.card h1 {
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.card p {
+    color: #25243280;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+}
+
